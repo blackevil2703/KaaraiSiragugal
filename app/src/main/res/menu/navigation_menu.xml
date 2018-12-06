@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"/>
+    <item
+        android:id="@+id/nav_friends"
+        android:title="Feathers"/>
+    <item
+        android:id="@+id/find_friends"
+        android:title="Find Feathers"/>
+    <item
+        android:id="@+id/nav_messages"
+        android:title="Messages"/>
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Settings"/>
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Log Out"/>
+
+</menu>

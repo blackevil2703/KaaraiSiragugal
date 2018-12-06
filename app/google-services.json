@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "588043506822",
+    "firebase_url": "https://kaaraisiragugal.firebaseio.com",
+    "project_id": "kaaraisiragugal",
+    "storage_bucket": "kaaraisiragugal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588043506822:android:5797d7f0d223cde7",
+        "android_client_info": {
+          "package_name": "blackevil.com.kaaraisiragugal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588043506822-gq387n0bqscluuu00cd76qn3p625qfil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "blackevil.com.kaaraisiragugal",
+            "certificate_hash": "a59e428aef0e4cdcab8d9b511acd30614c56bb22"
+          }
+        },
+        {
+          "client_id": "588043506822-pfpq8gudn32er78k3pvkuunmlfkd7b7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg01x7_qL9BGX9iOAKQrjSydThg9lb2kU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588043506822-pfpq8gudn32er78k3pvkuunmlfkd7b7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
